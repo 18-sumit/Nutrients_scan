@@ -27,6 +27,7 @@ You can start developing by editing the files inside the **app** directory. This
 
 ## Get a fresh project
 
+
 When you're ready, run:
 
 ```bash
